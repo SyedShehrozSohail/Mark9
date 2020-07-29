@@ -1,0 +1,12 @@
+{
+  "name": "Mark9",
+  "displayName": "Mark9",
+  "expo": {
+    "name": "Mark9",
+    "slug": "Mark9",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
