@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1071655490206",
+    "firebase_url": "https://mark-0002.firebaseio.com",
+    "project_id": "mark-0002",
+    "storage_bucket": "mark-0002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071655490206:android:df7650889aa7c47f79618f",
+        "android_client_info": {
+          "package_name": "com.mark8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071655490206-m4aj9q9fkq08qua9rm2le7aphoqo1jvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0fVCYpHLfIVNgUsjx01U4pEFEJAE2edY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071655490206-m4aj9q9fkq08qua9rm2le7aphoqo1jvr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1071655490206-roglu60jndtfensr130p2snbheea5ghn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mark8"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071655490206:android:285268edcb1fffea79618f",
+        "android_client_info": {
+          "package_name": "com.mark9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071655490206-m4aj9q9fkq08qua9rm2le7aphoqo1jvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0fVCYpHLfIVNgUsjx01U4pEFEJAE2edY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071655490206-m4aj9q9fkq08qua9rm2le7aphoqo1jvr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1071655490206-roglu60jndtfensr130p2snbheea5ghn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mark8"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
